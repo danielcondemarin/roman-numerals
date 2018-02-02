@@ -1,0 +1,15 @@
+[ 
+	{ "val": 1000, "label": "M" },
+	{ "val": 900, "label": "CM" },
+	{ "val": 500, "label": "D" },
+	{ "val": 400, "label": "CD" },
+	{ "val": 100, "label": "C" },
+	{ "val": 90, "label": "XC" },
+	{ "val": 50, "label": "L" },
+	{ "val": 40, "label": "XL" },
+	{ "val": 10, "label": "X" }, 
+	{ "val": 9, "label": "IX" }, 
+	{ "val": 5, "label": "V" }, 
+	{ "val": 4, "label": "IV" }, 
+	{ "val": 1, "label": "I" } 
+]
